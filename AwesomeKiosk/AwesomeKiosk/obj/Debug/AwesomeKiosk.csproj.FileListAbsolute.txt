@@ -1,0 +1,7 @@
+D:\Dev\ASP_NET\CST_326_TeamAwesomeKiosk\AwesomeKiosk\AwesomeKiosk\obj\Debug\ResolveAssemblyReference.cache
+D:\Dev\ASP_NET\CST_326_TeamAwesomeKiosk\AwesomeKiosk\AwesomeKiosk\bin\AwesomeKiosk.dll
+D:\Dev\ASP_NET\CST_326_TeamAwesomeKiosk\AwesomeKiosk\AwesomeKiosk\bin\AwesomeKiosk.pdb
+D:\Dev\ASP_NET\CST_326_TeamAwesomeKiosk\AwesomeKiosk\AwesomeKiosk\bin\EntityFramework.dll
+D:\Dev\ASP_NET\CST_326_TeamAwesomeKiosk\AwesomeKiosk\AwesomeKiosk\bin\EntityFramework.xml
+D:\Dev\ASP_NET\CST_326_TeamAwesomeKiosk\AwesomeKiosk\AwesomeKiosk\obj\Debug\AwesomeKiosk.dll
+D:\Dev\ASP_NET\CST_326_TeamAwesomeKiosk\AwesomeKiosk\AwesomeKiosk\obj\Debug\AwesomeKiosk.pdb

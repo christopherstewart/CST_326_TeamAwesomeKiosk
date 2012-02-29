@@ -1,0 +1,10 @@
+D:\Dev\ASP_NET\CST_326_TeamAwesomeKiosk\AwesomeKiosk\AwesomeKiosk.Tests\obj\Debug\ResolveAssemblyReference.cache
+D:\Dev\ASP_NET\CST_326_TeamAwesomeKiosk\AwesomeKiosk\AwesomeKiosk.Tests\bin\Debug\AwesomeKiosk.Tests.dll.config
+D:\Dev\ASP_NET\CST_326_TeamAwesomeKiosk\AwesomeKiosk\AwesomeKiosk.Tests\bin\Debug\AwesomeKiosk.Tests.dll
+D:\Dev\ASP_NET\CST_326_TeamAwesomeKiosk\AwesomeKiosk\AwesomeKiosk.Tests\bin\Debug\AwesomeKiosk.Tests.pdb
+D:\Dev\ASP_NET\CST_326_TeamAwesomeKiosk\AwesomeKiosk\AwesomeKiosk.Tests\bin\Debug\AwesomeKiosk.dll
+D:\Dev\ASP_NET\CST_326_TeamAwesomeKiosk\AwesomeKiosk\AwesomeKiosk.Tests\bin\Debug\EntityFramework.dll
+D:\Dev\ASP_NET\CST_326_TeamAwesomeKiosk\AwesomeKiosk\AwesomeKiosk.Tests\bin\Debug\AwesomeKiosk.pdb
+D:\Dev\ASP_NET\CST_326_TeamAwesomeKiosk\AwesomeKiosk\AwesomeKiosk.Tests\bin\Debug\EntityFramework.xml
+D:\Dev\ASP_NET\CST_326_TeamAwesomeKiosk\AwesomeKiosk\AwesomeKiosk.Tests\obj\Debug\AwesomeKiosk.Tests.dll
+D:\Dev\ASP_NET\CST_326_TeamAwesomeKiosk\AwesomeKiosk\AwesomeKiosk.Tests\obj\Debug\AwesomeKiosk.Tests.pdb

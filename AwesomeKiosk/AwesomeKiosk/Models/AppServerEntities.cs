@@ -14,7 +14,7 @@ namespace AwesomeKiosk.Models
         public DbSet<Answer> Answer_DbSet;
         public DbSet<Location> Location_DbSet;
         public DbSet<Store> Stores_DbSet;
-        public DbSet<JobListing> Stores_DbSet;
+        public DbSet<JobListing> JobListing_DbSet;
         public DbSet<CompletedApp> CompletedApps_DbSet;
         public DbSet<Login> Login_DbSet;
     }
