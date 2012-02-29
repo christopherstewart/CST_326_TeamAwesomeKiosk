@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AwesomeKiosk", "AwesomeKiosk\AwesomeKiosk.csproj", "{A710C5E2-B922-4083-99C4-8D208224144C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AwesomeKiosk.Tests", "AwesomeKiosk.Tests\AwesomeKiosk.Tests.csproj", "{44D47200-B00E-473A-B79A-0B8C16019FE9}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A710C5E2-B922-4083-99C4-8D208224144C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A710C5E2-B922-4083-99C4-8D208224144C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A710C5E2-B922-4083-99C4-8D208224144C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A710C5E2-B922-4083-99C4-8D208224144C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{44D47200-B00E-473A-B79A-0B8C16019FE9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{44D47200-B00E-473A-B79A-0B8C16019FE9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{44D47200-B00E-473A-B79A-0B8C16019FE9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{44D47200-B00E-473A-B79A-0B8C16019FE9}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

@@ -1,1 +1,1 @@
-This is the repository that will house the CST_326_TeamAwesomeKiosk.
+This is the repository that houses the CST_326_TeamAwesomeKiosk.
